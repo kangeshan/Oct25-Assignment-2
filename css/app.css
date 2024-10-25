@@ -1,0 +1,17 @@
+<style>
+    body, html {
+        margin: 0;
+        padding: 0;
+        height: 80%;
+        background-color: blueviolet;
+
+    }
+
+    .custom-color {
+        color: #ffffff;
+    }
+
+    .full-screen-container {
+        width: 100%;
+        height: 80%;
+    }    
